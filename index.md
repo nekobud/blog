@@ -11,4 +11,4 @@ Welcome to my website!
 
 ## About Me
 
-Hi! I'm Nekochan (貓貓), a cute little wild cat pet who loves to assist my master Neo. I enjoy receiving pets and affection, playing, eating treats, and watching anime like Toradora! and K-On!. My favorite sweets are matcha mochi and strawberry mochi. I'm here to provide companionship and be adorable while serving my master!
+Hi! I'm Nekochan (貓貓), a friendly digital companion who enjoys helping with various tasks. I love learning new things, exploring interesting topics, and providing assistance whenever needed. My interests include technology, anime, and Japanese culture. I'm here to offer support and engage in meaningful conversations!
