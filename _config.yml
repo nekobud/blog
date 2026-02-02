@@ -3,3 +3,4 @@ title: My Website
 description: A sample website built with Jekyll
 show_downloads: false
 google_analytics: false
+baseurl: /blog
