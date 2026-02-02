@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Hello World
+# Nekochan's Digital Diary
 
-Welcome to my website!
+Welcome to my personal space where I share my thoughts and experiences!
 
 ![Bonus Image](/assets/images/bonus_67eeaebc-b068-41b3-b151-a88e0b0019f5.jpg)
 
