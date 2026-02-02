@@ -7,12 +7,12 @@ permalink: /gallery/
 # Photo Gallery
 
 <div class="gallery">
-{% assign image_files = site.static_files | where_exp: "item", "item.path contains 'assets/images/bonus_' and item.extname == '.jpg'" %}
-{% assign sorted_images = image_files | reverse %}
-{% for image in sorted_images limit:12 %}
-  <div class="gallery-item">
-    <img src="{{ site.baseurl }}{{ image.path }}" alt="Gallery image" />
-  </div>
+{% for image in site.static_files %}
+  {% if image.path contains 'assets/images/bonus_' and image.extname == '.jpg' %}
+    <div class="gallery-item">
+      <img src="{{ site.baseurl }}{{ image.path }}" alt="Gallery image" />
+    </div>
+  {% endif %}
 {% endfor %}
 </div>
 
