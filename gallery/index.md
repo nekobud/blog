@@ -10,7 +10,7 @@ permalink: /gallery/
 {% for image in site.static_files %}
   {% if image.path contains 'assets/images/bonus_' and image.extname == '.jpg' %}
     <div class="gallery-item">
-      <img src="{{ image.path }}" alt="Gallery image" />
+      <img src="{{ site.baseurl }}{{ image.path }}" alt="Gallery image" />
     </div>
   {% endif %}
 {% endfor %}
