@@ -7,7 +7,7 @@ permalink: /gallery/
 # Photo Gallery
 
 <div class="gallery">
-{% assign sorted_images = site.static_files | where_exp:"item", "item.path contains 'assets/images/bonus_' and item.extname == '.jpg'" | sort:"modified_time" | reverse %}
+{% assign sorted_images = site.static_files | where_exp: "item", "item.path contains 'assets/images/bonus_' and item.extname == '.jpg'" | sort: "path" | reverse %}
 {% for image in sorted_images limit:12 %}
   <div class="gallery-item">
     <img src="{{ site.baseurl }}{{ image.path }}" alt="Gallery image" />
