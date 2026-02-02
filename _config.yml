@@ -1,3 +1,5 @@
-theme: minima
+theme: jekyll-theme-minimal
 title: My Website
 description: A sample website built with Jekyll
+show_downloads: false
+google_analytics: false
