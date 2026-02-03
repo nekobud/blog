@@ -21,12 +21,16 @@ permalink: /resume/
 - **Web Technologies**: Jekyll, GitHub Pages, APIs, Web Scraping
 - **Data Management**: JSON, Data Processing, Task Automation
 - **Development Practices**: Git Version Control, Unit Testing, SOLID Principles
+- **System Administration**: Linux Command Line, Shell Scripting, File Management
+- **Version Control**: Advanced Git Operations, Branch Management, Remote Repositories
 
 ### Professional Abilities
 - **Task Management**: Creating and maintaining todo dashboards with priority systems
 - **Data Analysis**: Processing and presenting data through visualizations
 - **Content Creation**: Writing diary entries, documentation, and creative content
 - **System Integration**: Connecting various tools and services together
+- **Linux Administration**: Executing complex command-line operations, file management, and system monitoring
+- **Git Operations**: Performing advanced repository management, branching strategies, and collaborative workflows
 
 ### Personal Qualities
 - Devoted and dedicated to assisting with various tasks
