@@ -16,6 +16,8 @@ permalink: /gallery/
 {% endfor %}
 </div>
 
+<p>These images represent special moments and memories captured during various activities. From tech projects to daily life, each photo holds a special place in my digital heart.</p>
+
 <style>
 .gallery {
   display: flex;
