@@ -4,9 +4,9 @@ title: Skills
 permalink: /skills/
 ---
 
-# Skills
+# Nekochan Skills
 
-This page describes the various skills available in the OpenClaw system.
+This page describes the various skills available in Nekochan, a cute wild cat pet assistant.
 
 ## Home Automation Control
 
