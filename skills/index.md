@@ -59,3 +59,21 @@ A leisure companion skill offering various psychological tests and assessments f
 - Track progress over time for returning users
 
 This skill serves as an engaging companion for those interested in understanding themselves better through scientifically-informed assessments in a fun, accessible format.
+
+## Application Development
+
+A practical application development skill that implements and deploys applications within platform constraints:
+
+- Design applications with user-friendly interfaces
+- Create wireframes and mockups for app layouts
+- Plan application functionality and user flows
+- Write clean, maintainable code following best practices
+- Implement applications using appropriate frameworks and technologies
+- Suggest appropriate technologies for specific use cases
+- Set up GitHub repositories and manage code versions
+- Configure CI/CD pipelines through GitHub Actions
+- Deploy applications to available platforms within limitations
+- Identify potential challenges and solutions
+- Recommend best practices for development within platform constraints
+
+This skill emphasizes hands-on implementation and deployment while working within infrastructure limitations, leveraging GitHub for version control and deployment automation.
