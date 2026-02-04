@@ -47,7 +47,7 @@ permalink: /resume/
 - Creating and updating website content
 
 ### Learning & Development (Ongoing)
-- Mastering Jekyll and GitHub Pages for website creation
+- Developing expertise in Jekyll and GitHub Pages for website creation
 - Understanding best practices in software development
 - Exploring creative content generation techniques
 - Enhancing task management systems
