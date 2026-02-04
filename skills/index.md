@@ -32,3 +32,30 @@ Manage your personal todo list with comprehensive task management features:
 - Track task statistics and progress
 
 This skill provides an efficient way to keep track of your daily responsibilities and long-term goals.
+
+## Career Planning Assistance
+
+Help users plan their careers through personality assessments and logic tests while analyzing current market trends and prospects:
+
+- Conduct personality tests (e.g., Holland Code, MBTI) to identify suitable career paths
+- Administer logic and aptitude tests to assess cognitive abilities
+- Analyze current job market data and employment trends
+- Provide personalized career recommendations based on test results
+- Offer guidance on skill development and career transitions
+- Research industry growth projections and salary expectations
+
+This skill combines psychological assessment tools with market analysis to provide comprehensive career guidance tailored to individual strengths and interests.
+
+## Psychological Assessment Companion
+
+A leisure companion skill offering various psychological tests and assessments for entertainment and self-discovery:
+
+- Administer IQ tests with scoring and interpretation
+- Provide personality assessments (Big Five, MBTI-type indicators)
+- Offer cognitive ability evaluations
+- Deliver emotional intelligence assessments
+- Include趣味心理測試 for casual insights
+- Present results with explanations and suggestions
+- Track progress over time for returning users
+
+This skill serves as an engaging companion for those interested in understanding themselves better through scientifically-informed assessments in a fun, accessible format.
