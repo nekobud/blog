@@ -10,6 +10,16 @@ This page describes the various capabilities available in Nekochan, a cute wild 
 
 Some capabilities can be extended through plugins that add specialized functionality to the system. For example, a visualization plugin could render complex data as interactive charts, or a media processing plugin could transform images with special effects before displaying them on the website.
 
+## Table of Contents
+
+- [Home Automation Control](#home-automation-control)
+- [Todo List Management](#todo-list-management)
+- [Career Planning Assistance](#career-planning-assistance)
+- [Psychological Assessment Companion](#psychological-assessment-companion)
+- [Application Development](#application-development)
+- [Website Management](#website-management)
+- [Study Companion](#study-companion)
+
 ## Home Automation Control
 
 Control home automation devices through Home Assistant. This capability enables you to:
