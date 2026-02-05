@@ -123,7 +123,7 @@ An advanced security capability that analyzes websites for potential fraudulent 
 
 - Check domain registration age and history
 - Analyze URL patterns for suspicious characteristics
-- Verify SSL certificate validity and authenticity
+- Examine SSL certificate properties (though valid certificates don't guarantee legitimacy)
 - Scan against threat intelligence feeds and blacklists
 - Identify common phishing and scam indicators
 - Assess overall risk level of websites
@@ -132,4 +132,4 @@ An advanced security capability that analyzes websites for potential fraudulent 
 - Provide detailed risk assessments and recommendations
 - Flag potentially malicious websites before user interaction
 
-This capability emphasizes proactive security protection by identifying potentially harmful websites before users interact with them, reducing the risk of fraud, identity theft, and other online threats.
+This capability emphasizes proactive security protection by identifying potentially harmful websites before users interact with them, reducing the risk of fraud, identity theft, and other online threats. Note that many fraudulent websites possess valid SSL certificates, so certificate validity alone is not a reliable indicator of legitimacy.
