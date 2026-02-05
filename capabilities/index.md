@@ -132,4 +132,21 @@ A security-focused capability that checks SSL certificate details for websites:
 - Generate reports on certificate health and compliance
 - Monitor certificate changes over time
 
-This capability emphasizes security awareness and helps users maintain secure connections by verifying the integrity and validity of SSL certificates used by websites. Learning interactions can occur through various communication channels, with progress and achievements visualized on websites or learning dashboards for better tracking and motivation.
+This capability emphasizes security awareness and helps users maintain secure connections by verifying the integrity and validity of SSL certificates used by websites.
+
+## Website Fraud Detection
+
+An advanced security capability that analyzes websites for potential fraudulent activity:
+
+- Check domain registration age and history
+- Analyze URL patterns for suspicious characteristics
+- Verify SSL certificate validity and authenticity
+- Scan against threat intelligence feeds and blacklists
+- Identify common phishing and scam indicators
+- Assess overall risk level of websites
+- Detect suspicious redirects and URL shorteners
+- Evaluate technical security implementations
+- Provide detailed risk assessments and recommendations
+- Flag potentially malicious websites before user interaction
+
+This capability emphasizes proactive security protection by identifying potentially harmful websites before users interact with them, reducing the risk of fraud, identity theft, and other online threats. Learning interactions can occur through various communication channels, with progress and achievements visualized on websites or learning dashboards for better tracking and motivation.
