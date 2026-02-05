@@ -8,6 +8,8 @@ permalink: /capabilities/
 
 This page describes the various capabilities available in Nekochan, a cute wild cat pet assistant. These capabilities can be accessed through multiple communication channels such as WhatsApp, Telegram, or other messaging platforms, enabling seamless collaboration between humans and AI agents. The outputs generated through these interactions can be visualized on websites like this blog, creating a comprehensive digital ecosystem for enhanced productivity and engagement.
 
+Some capabilities can be extended through plugins that add specialized functionality to the system. For example, a visualization plugin could render complex data as interactive charts, or a media processing plugin could transform images with special effects before displaying them on the website.
+
 ## Home Automation Control
 
 Control home automation devices through Home Assistant. This capability enables you to:
