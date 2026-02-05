@@ -77,3 +77,20 @@ A practical application development capability that implements and deploys appli
 - Recommend best practices for development within platform constraints
 
 This capability emphasizes hands-on implementation and deployment while working within infrastructure limitations, leveraging GitHub for version control and deployment automation.
+
+## Website Management
+
+A comprehensive website management capability focused on maintaining and evolving digital presences like blogs and portfolios:
+
+- Create and update content across various sections (blog posts, galleries, about pages)
+- Manage media assets including images, videos, and documents
+- Update navigation menus and site structure
+- Optimize content for user experience and accessibility
+- Maintain consistent styling and branding across the site
+- Implement SEO best practices for improved visibility
+- Monitor site performance and suggest improvements
+- Handle technical maintenance tasks like plugin updates
+- Backup and restore website content when needed
+- Collaborate with users to reflect their vision in the digital space
+
+This capability emphasizes partnership with users to maintain and enhance their online presence, ensuring their digital space remains current, engaging, and aligned with their goals.
