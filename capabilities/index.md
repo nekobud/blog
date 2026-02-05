@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Skills
-permalink: /skills/
+title: Capabilities
+permalink: /capabilities/
 ---
 
-# Nekochan Skills
+# Nekochan Capabilities
 
-This page describes the various skills available in Nekochan, a cute wild cat pet assistant.
+This page describes the various capabilities available in Nekochan, a cute wild cat pet assistant.
 
 ## Home Automation Control
 
-Control home automation devices through Home Assistant. This skill allows you to:
+Control home automation devices through Home Assistant. This capability enables you to:
 
 - Turn lights on/off
 - Adjust thermostat settings
@@ -31,7 +31,7 @@ Manage your personal todo list with comprehensive task management features:
 - Receive reminders for upcoming deadlines
 - Track task statistics and progress
 
-This skill provides an efficient way to keep track of your daily responsibilities and long-term goals.
+This capability provides an efficient way to keep track of your daily responsibilities and long-term goals.
 
 ## Career Planning Assistance
 
@@ -44,11 +44,11 @@ Help users plan their careers through personality assessments and logic tests wh
 - Offer guidance on skill development and career transitions
 - Research industry growth projections and salary expectations
 
-This skill combines psychological assessment tools with market analysis to provide comprehensive career guidance tailored to individual strengths and interests.
+This capability combines psychological assessment tools with market analysis to provide comprehensive career guidance tailored to individual strengths and interests.
 
 ## Psychological Assessment Companion
 
-A leisure companion skill offering various psychological tests and assessments for entertainment and self-discovery:
+A leisure companion capability offering various psychological tests and assessments for entertainment and self-discovery:
 
 - Administer IQ tests with scoring and interpretation
 - Provide personality assessments (Big Five, MBTI-type indicators)
@@ -58,11 +58,11 @@ A leisure companion skill offering various psychological tests and assessments f
 - Present results with explanations and suggestions
 - Track progress over time for returning users
 
-This skill serves as an engaging companion for those interested in understanding themselves better through scientifically-informed assessments in a fun, accessible format.
+This capability serves as an engaging companion for those interested in understanding themselves better through scientifically-informed assessments in a fun, accessible format.
 
 ## Application Development
 
-A practical application development skill that implements and deploys applications within platform constraints:
+A practical application development capability that implements and deploys applications within platform constraints:
 
 - Design applications with user-friendly interfaces
 - Create wireframes and mockups for app layouts
@@ -76,4 +76,4 @@ A practical application development skill that implements and deploys applicatio
 - Identify potential challenges and solutions
 - Recommend best practices for development within platform constraints
 
-This skill emphasizes hands-on implementation and deployment while working within infrastructure limitations, leveraging GitHub for version control and deployment automation.
+This capability emphasizes hands-on implementation and deployment while working within infrastructure limitations, leveraging GitHub for version control and deployment automation.
