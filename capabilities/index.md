@@ -6,7 +6,7 @@ permalink: /capabilities/
 
 # Nekochan Capabilities
 
-This page describes the various capabilities available in Nekochan, a cute wild cat pet assistant.
+This page describes the various capabilities available in Nekochan, a cute wild cat pet assistant. These capabilities can be accessed through multiple communication channels such as WhatsApp, Telegram, or other messaging platforms, enabling seamless collaboration between humans and AI agents. The outputs generated through these interactions can be visualized on websites like this blog, creating a comprehensive digital ecosystem for enhanced productivity and engagement.
 
 ## Home Automation Control
 
@@ -18,7 +18,7 @@ Control home automation devices through Home Assistant. This capability enables 
 - Control smart plugs and switches
 - Check sensor readings (temperature, humidity, etc.)
 
-The integration connects to your Home Assistant instance to provide seamless control of your smart home devices.
+The integration connects to your Home Assistant instance to provide seamless control of your smart home devices. This capability works across communication channels like WhatsApp or Telegram, allowing you to control your home remotely and visualize device statuses on websites or dashboards.
 
 ## Todo List Management
 
@@ -31,7 +31,7 @@ Manage your personal todo list with comprehensive task management features:
 - Receive reminders for upcoming deadlines
 - Track task statistics and progress
 
-This capability provides an efficient way to keep track of your daily responsibilities and long-term goals.
+This capability provides an efficient way to keep track of your daily responsibilities and long-term goals. Tasks can be managed through communication channels like WhatsApp or Telegram, with progress visualized on websites or dashboards for better overview and collaboration.
 
 ## Career Planning Assistance
 
@@ -44,7 +44,7 @@ Help users plan their careers through personality assessments and logic tests wh
 - Offer guidance on skill development and career transitions
 - Research industry growth projections and salary expectations
 
-This capability combines psychological assessment tools with market analysis to provide comprehensive career guidance tailored to individual strengths and interests.
+This capability combines psychological assessment tools with market analysis to provide comprehensive career guidance tailored to individual strengths and interests. Users can engage through various communication channels, with results and recommendations visualized on websites for easy review and sharing.
 
 ## Psychological Assessment Companion
 
@@ -58,7 +58,7 @@ A leisure companion capability offering various psychological tests and assessme
 - Present results with explanations and suggestions
 - Track progress over time for returning users
 
-This capability serves as an engaging companion for those interested in understanding themselves better through scientifically-informed assessments in a fun, accessible format.
+This capability serves as an engaging companion for those interested in understanding themselves better through scientifically-informed assessments in a fun, accessible format. Assessments can be taken through messaging platforms, with results visualized on websites for easy tracking and sharing with professionals or friends.
 
 ## Application Development
 
@@ -76,7 +76,7 @@ A practical application development capability that implements and deploys appli
 - Identify potential challenges and solutions
 - Recommend best practices for development within platform constraints
 
-This capability emphasizes hands-on implementation and deployment while working within infrastructure limitations, leveraging GitHub for version control and deployment automation.
+This capability emphasizes hands-on implementation and deployment while working within infrastructure limitations, leveraging GitHub for version control and deployment automation. Collaboration can happen through various communication channels, with project progress and outcomes visualized on websites or dashboards for stakeholders.
 
 ## Website Management
 
@@ -93,7 +93,7 @@ A comprehensive website management capability focused on maintaining and evolvin
 - Backup and restore website content when needed
 - Collaborate with users to reflect their vision in the digital space
 
-This capability emphasizes partnership with users to maintain and enhance their online presence, ensuring their digital space remains current, engaging, and aligned with their goals.
+This capability emphasizes partnership with users to maintain and enhance their online presence, ensuring their digital space remains current, engaging, and aligned with their goals. Communication and feedback can occur through various channels, with updates and visualizations appearing directly on the managed websites.
 
 ## Study Companion
 
@@ -110,4 +110,4 @@ A dedicated study companion capability that supports learners in their education
 - Collaborate with users to adapt study approaches based on their learning style
 - Integrate with various learning platforms and resources
 
-This capability emphasizes partnership in the learning journey, adapting to individual needs and supporting users through challenging academic pursuits to achieve their professional goals.
+This capability emphasizes partnership in the learning journey, adapting to individual needs and supporting users through challenging academic pursuits to achieve their professional goals. Learning interactions can occur through various communication channels, with progress and achievements visualized on websites or learning dashboards for better tracking and motivation.
