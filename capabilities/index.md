@@ -18,6 +18,7 @@ This page describes the various capabilities available in Nekochan, a cute wild 
 - [Website Management](#website-management)
 - [Study Companion](#study-companion)
 - [Website Fraud Detection](#website-fraud-detection)
+- [Leave Planning Assistant](#leave-planning-assistant)
 
 ## Home Automation Control
 
@@ -133,3 +134,20 @@ An advanced security capability that analyzes websites for potential fraudulent 
 - Flag potentially malicious websites before user interaction
 
 This capability emphasizes proactive security protection by identifying potentially harmful websites before users interact with them, reducing the risk of fraud, identity theft, and other online threats. Note that many fraudulent websites possess valid SSL certificates, so certificate validity alone is not a reliable indicator of legitimacy.
+
+## Leave Planning Assistant
+
+A specialized capability for managing annual leave entitlements and optimizing vacation planning:
+
+- Calculate total annual leave entitlements
+- Determine maximum allowable days before forfeitures
+- Identify potential forfeited days if limits are exceeded
+- Provide strategic planning recommendations
+- Optimize leave distribution across the year
+- Alert users to potential forfeitures
+- Track remaining leave balance
+- Forecast future leave availability
+- Suggest optimal timing for taking leave
+- Balance leave usage against company policies
+
+This capability emphasizes effective resource management by helping users maximize their entitled benefits while minimizing losses due to policy restrictions and forfeiture rules.
