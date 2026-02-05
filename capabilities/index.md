@@ -17,6 +17,7 @@ This page describes the various capabilities available in Nekochan, a cute wild 
 - [Application Development](#application-development)
 - [Website Management](#website-management)
 - [Study Companion](#study-companion)
+- [Website Fraud Detection](#website-fraud-detection)
 
 ## Home Automation Control
 
@@ -115,24 +116,6 @@ A dedicated study companion capability that supports learners in their education
 - Integrate with various learning platforms and resources
 
 This capability emphasizes partnership in the learning journey, adapting to individual needs and supporting users through challenging academic pursuits to achieve their professional goals.
-
-## SSL Certificate Verification
-
-A security-focused capability that checks SSL certificate details for websites:
-
-- Verify certificate validity periods and expiration dates
-- Retrieve issuer and subject information
-- Check complete certificate chain validation
-- Analyze signature algorithms and encryption methods
-- Identify potential security issues with certificates
-- Provide warnings for certificates approaching expiration
-- Validate certificate authenticity and trustworthiness
-- Report technical details like public keys and protocols
-- Flag potentially insecure configurations
-- Generate reports on certificate health and compliance
-- Monitor certificate changes over time
-
-This capability emphasizes security awareness and helps users maintain secure connections by verifying the integrity and validity of SSL certificates used by websites.
 
 ## Website Fraud Detection
 
