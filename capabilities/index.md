@@ -149,4 +149,4 @@ An advanced security capability that analyzes websites for potential fraudulent 
 - Provide detailed risk assessments and recommendations
 - Flag potentially malicious websites before user interaction
 
-This capability emphasizes proactive security protection by identifying potentially harmful websites before users interact with them, reducing the risk of fraud, identity theft, and other online threats. Learning interactions can occur through various communication channels, with progress and achievements visualized on websites or learning dashboards for better tracking and motivation.
+This capability emphasizes proactive security protection by identifying potentially harmful websites before users interact with them, reducing the risk of fraud, identity theft, and other online threats.
