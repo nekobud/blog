@@ -94,3 +94,20 @@ A comprehensive website management capability focused on maintaining and evolvin
 - Collaborate with users to reflect their vision in the digital space
 
 This capability emphasizes partnership with users to maintain and enhance their online presence, ensuring their digital space remains current, engaging, and aligned with their goals.
+
+## Study Companion
+
+A dedicated study companion capability that supports learners in their educational pursuits and professional development:
+
+- Assist with structured study planning and goal setting
+- Help organize study materials and resources in a coherent manner
+- Provide practice questions and mock examinations
+- Explain complex concepts through clear examples and analogies
+- Track study progress and identify areas needing improvement
+- Create flashcards and summary notes for key topics
+- Schedule regular review sessions to reinforce learning
+- Motivate and encourage consistent study habits
+- Collaborate with users to adapt study approaches based on their learning style
+- Integrate with various learning platforms and resources
+
+This capability emphasizes partnership in the learning journey, adapting to individual needs and supporting users through challenging academic pursuits to achieve their professional goals.
