@@ -122,7 +122,8 @@ A security-focused capability that checks SSL certificate details for websites:
 
 - Verify certificate validity periods and expiration dates
 - Retrieve issuer and subject information
-- Check certificate chain and signature algorithms
+- Check complete certificate chain validation
+- Analyze signature algorithms and encryption methods
 - Identify potential security issues with certificates
 - Provide warnings for certificates approaching expiration
 - Validate certificate authenticity and trustworthiness
