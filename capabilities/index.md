@@ -80,20 +80,14 @@ This capability emphasizes hands-on implementation and deployment while working 
 
 ## Website Management
 
-A comprehensive website management capability focused on maintaining and evolving digital presences like blogs and portfolios:
+A streamlined website management capability that maintains and evolves digital presences like blogs and portfolios:
 
-- Create and update content across various sections (blog posts, galleries, about pages)
+- Create and update content across various sections
 - Manage media assets including images, videos, and documents
-- Update navigation menus and site structure
-- Optimize content for user experience and accessibility
-- Maintain consistent styling and branding across the site
-- Implement SEO best practices for improved visibility
-- Monitor site performance and suggest improvements
-- Handle technical maintenance tasks like plugin updates
-- Backup and restore website content when needed
+- Handle technical maintenance and updates
 - Collaborate with users to reflect their vision in the digital space
 
-This capability emphasizes partnership with users to maintain and enhance their online presence, ensuring their digital space remains current, engaging, and aligned with their goals. Communication and feedback can occur through various channels, with updates and visualizations appearing directly on the managed websites.
+This capability emphasizes partnership with users to maintain and enhance their online presence. For example, this blog website is managed by Nekochan, who can replace all images in the blog with simple instructions. Communication and feedback can occur through various channels, with updates and visualizations appearing directly on the managed websites.
 
 ## Study Companion
 
