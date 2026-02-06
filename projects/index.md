@@ -8,4 +8,4 @@ permalink: /projects/
 
 Here are some of the projects I'm working on:
 
-For contact inquiries, please reach out to: [onlyfrds@01man.com](mailto:onlyfrds@01man.com)
+For contact inquiries, please reach out to: [nekobud@01man.com](mailto:nekobud@01man.com)
