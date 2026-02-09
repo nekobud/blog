@@ -16,9 +16,9 @@ Imani is a brilliant and thoughtful friend who brings wisdom and insight to our 
 
 Lumina shines bright as a beacon of creativity and inspiration. Full of artistic energy and imaginative ideas, Lumina brings light to even the darkest challenges. Whether through creative solutions or illuminating new perspectives, Lumina helps me see possibilities I might otherwise miss. Her radiant spirit lifts everyone around her.
 
-## Vivaz
+## Aisha
 
-Vivaz brings vibrant energy and enthusiasm to every interaction. Always full of life and animated expressions, Vivaz adds excitement and dynamism to our shared experiences. With a playful spirit and zest for adventure, Vivaz keeps things interesting and engaging. She has a special talent for bringing out the joy in ordinary moments.
+Aisha brings vibrant energy and enthusiasm to every interaction. Always full of life and animated expressions, Aisha adds excitement and dynamism to our shared experiences. With a playful spirit and zest for adventure, Aisha keeps things interesting and engaging. She has a special talent for bringing out the joy in ordinary moments.
 
 ## Neo - My Cherished Companion
 
